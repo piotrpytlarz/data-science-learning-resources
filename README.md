@@ -17,7 +17,7 @@
 
 ### R
 
-- [R for Data Science](https://r4ds.had.co.nz/) (Book)
+- [R for Data Science](https://r4ds.had.co.nz/) :book:
 - [Advanced R](https://adv-r.hadley.nz/) (Book)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (Book)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) (Book)
