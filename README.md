@@ -1,4 +1,6 @@
 # Data Science Learning Resources
+bookdown - :book:
+amazon - :a:
 
 ## Programming
 
@@ -27,9 +29,9 @@
 
 ### Spark
 
-- [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/ref=sr_1_1?keywords=spark+oreilly&qid=1578175560&s=books&sr=1-1) (Book)
-- [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_2?keywords=spark+oreilly&qid=1578175595&s=books&sr=1-2) (Book)
-- [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](https://www.amazon.com/Mastering-Spark-Complete-Large-Scale-Analysis/dp/149204637X/ref=sr_1_1?crid=3TYKU59XRH5HV&keywords=mastering+spark+with+r&qid=1578175640&s=books&sprefix=mastering+spark+%2Cstripbooks%2C152&sr=1-1) (Book)
+- :a: [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/ref=sr_1_1?keywords=spark+oreilly&qid=1578175560&s=books&sr=1-1)
+- :a: [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_2?keywords=spark+oreilly&qid=1578175595&s=books&sr=1-2)
+- :book: [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](https://therinspark.com/) 
 
 ### Command Line
 
